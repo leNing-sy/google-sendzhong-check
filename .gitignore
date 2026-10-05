@@ -1,0 +1,17 @@
+# 结果文件 / 报告
+report_*.txt
+report_*.md
+*.log
+
+# 独立实例临时目录
+instance_*/
+
+# 订阅缓存
+sub_provider.yaml
+
+# 系统 / 编辑器
+Thumbs.db
+Desktop.ini
+.idea/
+.vscode/
+*.swp
